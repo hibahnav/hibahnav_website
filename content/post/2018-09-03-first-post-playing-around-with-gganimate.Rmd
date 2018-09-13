@@ -1,0 +1,16 @@
+---
+title: First Post - Playing Around With gganimate
+author: Hibah N
+date: '2018-09-03'
+slug: first-post-playing-around-with-gganimate
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+```{r cool-plot, fig.cap='A cool plot.'}
+
+#first post playing around to explore the 'gganimate' package
+
+```
